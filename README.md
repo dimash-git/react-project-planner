@@ -5,7 +5,6 @@ Demo: [link to the app](https://fir-project-33ee5.web.app/)
 
 This app was created by React-Redux-Firebase technology
 
-![Image of React-Redux-Firebase](https://i.ytimg.com/vi/TlpX0aMYmrk/maxresdefault.jpg)
 <img width="480" height="auto" src="https://i.ytimg.com/vi/TlpX0aMYmrk/maxresdefault.jpg" style="margin-right: 10px">
 
 
